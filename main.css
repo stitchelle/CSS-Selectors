@@ -35,6 +35,10 @@ a.disabled {
     color: red;
   }
 
-  .parent div h4 +div{
+.parent div h4 +div{
     color: blue;
+}
+
+.parent div h4 +div +h4{
+    background-color: blue;
 }
