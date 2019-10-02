@@ -23,3 +23,7 @@ a.disabled {
     color: grey;
 }
 
+.active {
+    color: yellow;
+}
+
