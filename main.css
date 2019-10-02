@@ -14,3 +14,12 @@ header nav ul li {
     display: inline;
     padding: 15px;
 }
+
+a.disabled {
+    color:purple;
+}
+
+.disabled {
+    color: grey;
+}
+
