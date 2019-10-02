@@ -27,3 +27,10 @@ a.disabled {
     color: yellow;
 }
 
+.parent div:first-child {
+    color: red;
+  }
+
+.parent div h4 +div{
+    color: blue;
+}
