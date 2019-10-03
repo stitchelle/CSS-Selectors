@@ -48,3 +48,8 @@ a.disabled {
     border-width: 1px;
     border-radius: 25px;
 }
+
+.promo {
+    font-weight: bold; 
+    color: gold;
+}
