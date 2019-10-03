@@ -53,3 +53,7 @@ a.disabled {
     font-weight: bold; 
     color: gold;
 }
+
+input{
+    height: 25px;
+}
